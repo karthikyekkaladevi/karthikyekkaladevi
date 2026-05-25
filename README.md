@@ -1,32 +1,37 @@
+<!-- HEADER SVG -->
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=1&pause=999999&color=F0F6FC&center=true&vCenter=true&width=700&height=80&lines=Karthik+Yekkaladevi" alt="Karthik Yekkaladevi" />
 
-<!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080c12,50:0d1f3c,100:1f6feb&height=200&section=header&text=Karthik%20Yekkaladevi&fontSize=40&fontColor=f0f6fc&fontAlignY=38&desc=mathematics_researcher%20%26%26%20ai_ml_enthusiast&descAlignY=58&descSize=16&descColor=58a6ff&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=mathematics+researcher;ai+%2F+ml+enthusiast;where+rigorous+theory+meets+intelligence" alt="Typing animation" />
 
-<!-- Badges -->
-![Open to Collaborate](https://img.shields.io/badge/Open%20to-Collaborate-1f6feb?style=flat-square&labelColor=0d1117)
-![Role](https://img.shields.io/badge/Role-Researcher-21262d?style=flat-square&labelColor=0d1117)
-![Focus](https://img.shields.io/badge/Focus-AI%20%2F%20ML-3fb950?style=flat-square&labelColor=0d1117)
-![Passion](https://img.shields.io/badge/Passion-Pure%20Math-e3b341?style=flat-square&labelColor=0d1117)
+<br/>
+
+[![Email](https://img.shields.io/badge/─────────────────────────────────────────────────────────────────────────────-0d1117?style=flat-square&labelColor=0d1117)](.)
+
+[![Email](https://img.shields.io/badge/karthikyekkaladevi%40gmail.com-email-1f6feb?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:karthikyekkaladevi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/karthik--yekkaladevi-linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/karthik-yekkaladevi-00211b326/)
+[![GitHub](https://img.shields.io/badge/karthikyekkaladevi-github-181717?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/karthikyekkaladevi)
 
 </div>
 
 ---
 
-## `// about me`
+## About Me
 
-I'm a **mathematics researcher** with a deep passion for **artificial intelligence and machine learning**. I explore the elegant intersections between rigorous mathematical theory and modern computational intelligence.
+- **Research** &nbsp;→&nbsp; I explore the mathematical structures that underpin modern AI and ML systems.
+- **Build** &nbsp;→&nbsp; I turn theoretical frameworks into working experiments and models.
+- **Investigate** &nbsp;→&nbsp; I care about understanding *why* algorithms work, not just *that* they work.
+
+## What I Care About
 
 ```
-▸  Researching mathematical foundations of AI/ML models
-▸  Interested in optimization theory, probability, and statistical learning
-▸  Exploring deep learning architectures through a mathematical lens
-▸  Always up for discussing abstract algebra, topology, or gradient descent
+Mathematics     ->  optimization, topology, probability, real analysis
+AI / ML         ->  neural architectures, learning theory, statistical models
+Research        ->  rigorous proofs, reproducible experiments, clean derivations
+Engineering     ->  readable code, solid implementations, honest benchmarks
 ```
 
----
-
-## `// skills & tools`
+## Toolbox
 
 **Mathematics**
 `Linear Algebra` `Real Analysis` `Topology` `Optimization` `Probability Theory` `Statistics`
@@ -42,31 +47,12 @@ I'm a **mathematics researcher** with a deep passion for **artificial intelligen
 
 ---
 
-## `// github stats`
+## Note
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=karthikyekkaladevi&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff)
-
-</div>
+This repository serves as a personal profile and portfolio overview. For specific projects or code, please visit the individual repositories or reach out directly.
 
 ---
 
-## `// contact`
-
 <div align="center">
-
-[![Email](https://img.shields.io/badge/Email-karthikyekkaladevi%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:karthikyekkaladevi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/karthik-yekkaladevi-00211b326/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/karthikyekkaladevi)
-
-</div>
-
----
-
-<!-- Animated footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080c12,50:0d1f3c,100:1f6feb&height=100&section=footer" width="100%"/>
-
-<div align="center">
-  <sub>— crafted with precision & a love for mathematics —</sub>
+  <sub>— built with precision & a love for mathematics —</sub>
 </div>
