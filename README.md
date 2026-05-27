@@ -45,14 +45,6 @@ Engineering     ->  readable code, solid implementations, honest benchmarks
 **Tools**
 `Jupyter` `Git` `NumPy` `Pandas` `SciPy` `Matplotlib`
 
----
-
-## Note
-
-This repository serves as a personal profile and portfolio overview. For specific projects or code, please visit the individual repositories or reach out directly.
-
----
-
 <div align="center">
   <sub>— built with precision & a love for mathematics —</sub>
 </div>
